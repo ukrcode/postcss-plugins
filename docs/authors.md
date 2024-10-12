@@ -348,6 +348,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[devgru](https://github.com/devgru)   |    [`postcss-color-hcl`](https://github.com/devgru/postcss-color-hcl)   |   10|
 |[dfernandez79](https://github.com/dfernandez79)   |    [`postcss-ase-colors`](https://github.com/dfernandez79/postcss-ase-colors)   |   10|
 |[DimitrisNL](https://github.com/DimitrisNL)   |    [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)   |   13|
+|[dolgachio](https://github.com/dolgachio)   |    [`postcss-boost-specificity`](https://github.com/ukrcode/postcss-boost-specificity)   |   0|
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   3|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   83|
 |[Dreamseer](https://github.com/Dreamseer)   |    [`postcss-opacity-percentage`](https://github.com/Dreamseer/postcss-opacity-percentage)   |   11|

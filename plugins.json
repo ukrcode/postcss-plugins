@@ -5327,5 +5327,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-boost-specificity",
+    "description": "that increases(boosts) CSS selectors specificity",
+    "author": "dolgachio",
+    "url": "https://github.com/ukrcode/postcss-boost-specificity",
+    "tags": [
+      "extensions",
+      "other"
+    ],
+    "stars": 0
   }
 ]
